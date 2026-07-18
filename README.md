@@ -122,6 +122,103 @@
 
 # 🌟 Fun Fact
 
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Irfanmulla697">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:your_email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/your-linkedin-username/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- 🌱 Java Programming
+- 🐍 Python Programming
+- 💻 Full Stack Web Development
+- 📊 Data Structures & Algorithms
+- ☁️ Git & GitHub
+- 🗄️ Database Management Systems (MySQL)
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master Java
+
+✅ Master Python
+
+✅ Improve Data Structures & Algorithms
+
+✅ Build Full Stack Projects
+
+✅ Contribute to Open Source
+
+✅ Secure a Software Developer Internship
+
+---
+
+# 💬 Favorite Quote
+
+<p align="center">
+
+### 🚀 "Success doesn't come from what you know. It comes from what you build consistently."
+
+</p>
+
+---
+
+# 📌 My Coding Journey
+
+```text
+2023 ───── B.Sc Computer Science
+              │
+              ▼
+2025 ───── MCA @ BIET Davanagere
+              │
+              ▼
+Learning HTML • CSS • JavaScript
+              │
+              ▼
+Learning Java • Python • DSA
+              │
+              ▼
+Building Real Projects
+              │
+              ▼
+Future Software Engineer 🚀
+```
+
+---
+
+<h3 align="center">⭐ Thank You for Visiting My Profile ⭐</h3>
+
+<p align="center">
+
+If you like my work, don't forget to ⭐ my repositories!
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=footer"/>
+
+</p>
+
 > 💡 *"Every expert was once a beginner. I believe in learning by building real-world projects."*
 
 ---
