@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Irfan Mulla</h1>
 
-<!--
-**Irfanmulla697/Irfanmulla697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 MCA Student | Web Developer | Future Software Engineer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;MCA+Student+at+BIET+Davanagere;B.Sc.+Computer+Science+Graduate;HTML+CSS+JavaScript+Developer;Learning+Java+Python+and+DSA;Future+Full+Stack+Developer" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👨‍💻 About Me
+
+- 🎓 MCA Student at **BIET, Davanagere**
+- 🎓 Completed **B.Sc. in Computer Science**
+- 💻 Passionate about Web Development
+- 🌱 Currently learning **Java, Python, Data Structures & Algorithms**
+- 🚀 Interested in Full Stack Development
+- 📍 Karnataka, India
+- 📚 Always learning new technologies and improving my programming skills.
+
+---
+
+# 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,c,cpp,mysql,git,github,vscode&perline=6"/>
+
+</p>
+
+---
+
+# 💡 What I'm Working On
+
+- 🍽️ Mulla's Cafe Website
+- 🔐 Password Strength Checker
+- 🌐 Responsive Web Development Projects
+- 📖 Improving DSA and Java Programming Skills
+
+---
+
+# 🎯 Career Goal
+
+> To become a skilled Software Engineer by mastering Web Development, Java, Python, Data Structures & Algorithms, and modern software technologies.
+
+---
